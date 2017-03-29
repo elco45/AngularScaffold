@@ -1,0 +1,30 @@
+{
+  "name": "dilo-ya",
+  "authors": [
+    "Dennis Cheong"
+  ],
+  "description": "scaffold",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "Angular",
+    "Mongo",
+    "Node",
+    "Bootstrap"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "jquery-ui": "latest",
+    "angular": "latest",
+    "angular-ui-router": "latest"
+  }
+}
